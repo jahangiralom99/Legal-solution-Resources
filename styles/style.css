@@ -8,3 +8,7 @@ body{
     background-size: cover;
     background-position: center;
 }
+.gradint{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    border: 1px solid #E7E7E7;
+}
