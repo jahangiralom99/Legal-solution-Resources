@@ -12,3 +12,7 @@ body{
     background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
     border: 1px solid #E7E7E7;
 }
+.carousel-bg{
+    background-color: rgba(17, 17, 17, 0.8);
+    border-radius: 8px;
+}
